@@ -59,10 +59,3 @@ The project explores the **Accuracy Paradox**. In medical diagnostics, a model c
 | **Generalization** | Prone to Overfitting | Robust |
 
 > **Conclusion**: Balancing the dataset and applying L2 Regularization significantly improved the model's ability to identify high-risk patients, increasing the F1-Score for the minority class.
-
----
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/covid-logistic-regression.git
